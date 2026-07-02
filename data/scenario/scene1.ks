@@ -14,7 +14,7 @@
 
 [_tb_end_text]
 
-[tb_image_show  time="10"  storage="default/kansikamera1.jpg"  width="1920"  height="1440"  x="240"  y="30"  name="img_5"  ]
+[tb_image_show  time="10"  storage="default/kansikamera1.jpg"  width="480"  height="360"  x="240"  y="30"  name="img_5"  ]
 [tb_start_text mode=1 ]
 短く切り揃えられた爪の先には一人の女性が映っていた。[p]
 ノートパソコンに映る映像は荒れていて、ところどころにノイズが走っている。[p]
@@ -27,8 +27,8 @@
 次の瞬間、映像が一度だけ乱れた。[p]
 [_tb_end_text]
 
-[tb_image_show  time="150"  storage="default/kansikamera8.png"  width="1448"  height="1086"  x="240"  y="30"  _clickable_img=""  name="img_8"  ]
-[tb_image_show  time="0"  storage="default/kansikamera4.jpg"  width="1920"  height="1440"  x="240"  y="30"  name="img_9"  ]
+[tb_image_show  time="150"  storage="default/kansikamera8.png"  width="480"  height="360"  x="240"  y="30"  _clickable_img=""  name="img_8"  ]
+[tb_image_show  time="0"  storage="default/kansikamera4.jpg"  width="480"  height="360"  x="240"  y="30"  name="img_9"  ]
 [tb_start_text mode=1 ]
 #草薙 理解
 「大瀬さん停めて。今の、女性の手元。何か持ってませんでした？」[p]
@@ -42,7 +42,7 @@
 再び映像が流れる。[p]
 [_tb_end_text]
 
-[tb_image_show  time="1000"  storage="default/kansikamera1.jpg"  width="1920"  height="1440"  x="240"  y="30"  name="img_13"  ]
+[tb_image_show  time="1000"  storage="default/kansikamera1.jpg"  width="480"  height="360"  x="240"  y="30"  name="img_13"  ]
 [tb_start_text mode=1 ]
 #湊 大瀬
 「…………いえ、何も、持ってないですね」[p]
