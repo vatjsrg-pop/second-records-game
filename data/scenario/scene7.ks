@@ -2,7 +2,7 @@
 
 [cm  ]
 [stopbgm  time="1000"  ]
-[bg  time="1000"  method="crossfade"  storage="執務室ドア.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="door.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #草薙 理解
@@ -28,13 +28,13 @@
 
 [_tb_end_text]
 
-[playse  volume="30"  time="1000"  buf="0"  storage="ドア・開ける04.mp3"  ]
+[playse  volume="30"  time="1000"  buf="0"  storage="door.mp3"  ]
 [tb_start_text mode=1 ]
 猿川が立ち上がる。大股でフロアから出ていった。[p]
 [_tb_end_text]
 
 [l  ]
-[playse  volume="30"  time="1000"  buf="0"  storage="ドア・閉める04.mp3"  ]
+[playse  volume="30"  time="1000"  buf="0"  storage="door2.mp3"  ]
 [l  ]
 [tb_start_text mode=1 ]
 #天堂 天彦
@@ -109,7 +109,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[bg  time="1000"  method="crossfade"  storage="大瀬の机.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="oose_desk.jpg"  ]
 [tb_start_text mode=1 ]
 大瀬の机を見る。他にも大量のメモ書きが残っていた。[p]
 
@@ -142,14 +142,14 @@
 分かったような気がした。[p]
 [_tb_end_text]
 
-[playse  volume="100"  time="1000"  buf="0"  storage="本・置く01.mp3"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="book1.mp3"  ]
 [tb_start_text mode=1 ]
 
 バサッ、机の端から何かが落ちる。[p]
 
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="赤い本.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="redbook.jpg"  ]
 [tb_start_text mode=1 ]
 ——赤い本だ。[p]
 大瀬のメモ通りなら、私が書き込むことで変えられる。[p]

@@ -1,8 +1,8 @@
 [_tb_system_call storage=system/_scene5.ks]
 
 [cm  ]
-[bg  time="1000"  method="crossfade"  storage="夕焼け.jpg"  ]
-[playbgm  volume="15"  time="1000"  loop="true"  storage="カラスが鳴く夕方.mp3"  ]
+[bg  time="1000"  method="crossfade"  storage="sunset.jpg"  ]
+[playbgm  volume="15"  time="1000"  loop="true"  storage="raven.mp3"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 夕暮れの橙色の中に建物の青い影が滲んでいる。[p]
@@ -26,7 +26,7 @@
 [tb_start_text mode=1 ]
 #テラ
 「そうだった？でも聞き込みは2人でやったでしょ？[p]
-理解君の勘違いじゃない？」[p]
+理解くんの勘違いじゃない？」[p]
 #草薙 理解
 「……………………[p]
 ……そう、でしたね」[p]

@@ -2,7 +2,7 @@
 
 [cm  ]
 [stopbgm  time="1000"  ]
-[bg  time="1000"  method="crossfade"  storage="会議.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="meeting_room.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 机の上には資料が広がっていた。[p]

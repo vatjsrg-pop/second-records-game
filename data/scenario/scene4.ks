@@ -1,8 +1,8 @@
 [_tb_system_call storage=system/_scene4.ks]
 
 [cm  ]
-[bg  time="1000"  method="crossfade"  storage="休憩室2.jpg"  ]
-[playbgm  volume="10"  time="1000"  loop="true"  storage="シーンと静まり返る教室.mp3"  ]
+[bg  time="1000"  method="crossfade"  storage="Break_room.jpg"  ]
+[playbgm  volume="10"  time="1000"  loop="true"  storage="classroom.mp3"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #草薙 理解
@@ -11,7 +11,7 @@
 
 [_tb_end_text]
 
-[bg  time="1000"  method="crossfade"  storage="自販機.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="jihanki.jpg"  ]
 [tb_start_text mode=1 ]
 女子学生とテラに確認し、自動販売機へ向かう。[p]
 学生用の休憩室は講義中のためかまばらだった。[p]

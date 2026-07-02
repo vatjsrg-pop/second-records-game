@@ -3,8 +3,8 @@
 [cm  ]
 [playbgm  volume="50"  time="1000"  loop="true"  storage="quiet-room-1.mp3"  ]
 [tb_show_message_window  ]
-[bg  time="1000"  method="crossfade"  storage="ラップトップ.jpg"  ]
-[tb_image_show  time="1000"  storage="default/監視カメラ1.jpg"  width="480"  height="360"  x="240"  y="30"  ]
+[bg  time="1000"  method="crossfade"  storage="Laptop.jpg"  ]
+[tb_image_show  time="1000"  storage="default/kansikamera1.jpg"  width="1920"  height="1440"  x="240"  y="30"  ]
 [tb_start_text mode=1 ]
 #湊 大瀬
 「……………………[p]

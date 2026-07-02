@@ -2,7 +2,7 @@
 
 [cm  ]
 [playbgm  volume="50"  time="1000"  loop="true"  storage="quiet-room-1.mp3"  ]
-[bg  time="1000"  method="crossfade"  storage="会議.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="meeting_room.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #草薙 理解

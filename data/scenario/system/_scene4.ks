@@ -1,3 +1,3 @@
-[preload  storage="./data/bgimage/休憩室2.jpg"  ]
-[preload  storage="./data/bgimage/自販機.jpg"  ]
+[preload  storage="./data/bgimage/Break_room.jpg"  ]
+[preload  storage="./data/bgimage/jihanki.jpg"  ]
 [return]

@@ -1,3 +1,3 @@
-[preload  storage="./data/bgimage/ラップトップ.jpg"  ]
-[preload  storage="./data/fgimage/default/監視カメラ1.jpg"  ]
+[preload  storage="./data/bgimage/Laptop.jpg"  ]
+[preload  storage="./data/fgimage/default/kansikamera1.jpg"  ]
 [return]
