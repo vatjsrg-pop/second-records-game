@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/ラップトップ.jpg"  ]
+[preload  storage="./data/fgimage/default/監視カメラ1.jpg"  ]
+[preload  storage="./data/fgimage/default/監視カメラ8.png"  ]
+[preload  storage="./data/fgimage/default/監視カメラ4.jpg"  ]
+[return]

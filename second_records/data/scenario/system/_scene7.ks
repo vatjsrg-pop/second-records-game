@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/執務室ドア.jpg"  ]
+[preload  storage="./data/bgimage/大瀬の机.jpg"  ]
+[preload  storage="./data/bgimage/赤い本.jpg"  ]
+[preload  storage="./data/bgimage/black_back.jpg"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[return]
